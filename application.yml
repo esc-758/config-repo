@@ -1,2 +1,7 @@
 my:
-	text: Text that should matter
+	text: "Text that should matter"
+
+db:
+	connection: connection-string-here
+	host: 127.0.0.1
+	port: 1200
